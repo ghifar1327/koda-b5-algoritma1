@@ -1,7 +1,7 @@
 ## algoritma menghitung luas dan keliling lingkaran
 
 1. mulai
-2. input nila r (jari-jari) 
+2. tentukan nila r (jari-jari) 
 3. jika nilai r bisa habis dibagi tujuh atau sama dengan nol
 4. gunakan phi 22/7, jika tidak
 5. gunakan phi 3.14
