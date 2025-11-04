@@ -1,4 +1,4 @@
-## algoritma menentukan nilai x bilangna ganjil dan genap
+## algoritma menentukan nilai x bilangan ganjil atau genap
 
 1. mulai
 2. tentukan nilai x
